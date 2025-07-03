@@ -1,6 +1,33 @@
 # DSA-DATA-ANALYSIS-PROJECT
 This project forms part of my Data Analytics Bootcamp capstone and focuses on uncovering actionable insights from Kultra Mega Stores (KMS) sales data. Using SQL Server, I explored various case scenarios to provide strategic decision support. 
 
+## 📚 Table of Contents
+
+- [Project Title](#dsa-data-analysis-project)
+- [Step-by-Step Documentation](#step-by-step-documentation-employed-during-the-project)
+  - [Project Overview](#project-overview)
+    - [Objectives](#objectives)
+    - [Case Scenarios Covered](#case-scenarios-covered)
+  - [Exploratory Data Analysis (EDA)](#exploratory-data-analysis-eda)
+  - [Step 1: Creation of Database and Data Importation](#step-1-step-1-creation-of-database-and-data-importation)
+- [Case Scenario Queries](#case-scenario-queries)
+  - [Top-Performing Product Category](#1-which-product-category-had-the-highest-sales)
+  - [Top and Bottom 3 Regions by Sales](#2-what-are-the-top-3-and-bottom-3-regions-in-terms-of-sales)
+  - [Appliance Sales in Ontario](#3-what-were-the-total-sales-of-appliances-in-ontario)
+  - [Low-Spending Customers Analysis](#4-advise-the-management-of-kms-on-what-to-do-to-increase-the-revenue-from-the-bottom-10-customers)
+  - [Most Expensive Shipping Method](#5-kms-incurred-the-most-shipping-cost-using-which-shipping-method)
+  - [High-Value Customers and Their Orders](#6a-who-are-the-most-valuable-customers)
+  - [Small Business Customer with Highest Sales](#7-which-small-business-customer-had-the-highest-sales)
+  - [Corporate Customer Order Frequency](#8-which-corporate-customer-placed-the-most-number-of-orders-in-2009--2012)
+  - [Most Profitable Consumer Customer](#9-which-consumer-customer-was-the-most-profitable-one)
+  - [Return Behavior Analysis](#10-which-customer-returned-items-and-what-segment-do-they-belong-to)
+  - [Shipping Cost vs Order Priority](#11-if-the-delivery-truck-is-the-most-economical-but-the-slowest-shipping-method)
+- [Key Insights](#key-insights)
+- [Trends & Patterns](#trends--patterns)
+- [Strategic Recommendations](#strategic-recommendations)
+
+
+
 ## STEP BY STEP DOCUMENTATION EMPLOYED DURING THE PROJECT
 
 ### PROJECT OVERVIEW

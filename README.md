@@ -344,7 +344,26 @@ ORDER BY
 - Customer Retention: Launch loyalty programs for top-tier customers and reactivation strategies for dormant ones.
 - Logistics: Shift low-priority deliveries to cost-efficient shipping methods.
 
-- Product Strategy: Use purchase and return trends to optimize product mix and descriptions. 
+- Product Strategy: Use purchase and return trends to optimize product mix and descriptions.
+
+
+### 📚 SKILLS DEMONSTRATED
+
+- Exploratory Data Analysis
+  
+- Data Cleaning
+  
+- Pivot Table Mastery
+  
+- SQL Query Thinking
+
+- Insight Derivation
+
+- Dashboard Creation
+
+- Business Storytelling
+
+
 
 
 

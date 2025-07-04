@@ -25,6 +25,8 @@ This project forms part of my Data Analytics Bootcamp capstone and focuses on un
 - [Key Insights](#key-insights)
 - [Trends & Patterns](#trends--patterns)
 - [Strategic Recommendations](#strategic-recommendations)
+- [Skills Demonstrated](#skills-demonstrated)
+- [Final Thoughts](final-thoughts)
 
 
 

@@ -73,7 +73,7 @@ EDA (Exploratory Data Analysis) is the process of exploring and understanding a 
 
 - It often involves statistics, data cleaning, and visualizations like histograms, box plots, and scatter plots.
 
-### Step 1: Step 1: Creation of Database and Data Importation
+### Step 1: Creation of Database and Data Importation
 Approach:
 
 create database DSA_PROJECT_DB

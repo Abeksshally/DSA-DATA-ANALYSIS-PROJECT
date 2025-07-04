@@ -1,4 +1,4 @@
-# DSA-DATA-ANALYSIS-PROJECT
+# DSA-DATA-ANALYSIS-PROJECT-KMS
 This project forms part of my Data Analytics Bootcamp capstone and focuses on uncovering actionable insights from Kultra Mega Stores (KMS) sales data. Using SQL Server, I explored various case scenarios to provide strategic decision support. 
 
 ## 📚 Table of Contents
@@ -372,7 +372,7 @@ I’m proud of how far I’ve come in this journey and excited about what lies a
 
  Let’s connect! I’m open to feedback, collaboration, or opportunities in data analysis.
 
-###### GMAIL: abkcoaching@gmail.com
+###### EMAIL: abkcoaching@gmail.com
 ###### PHONE: +2349064562159
 ###### LinkedIn: https://www.linkedin.com/in/maryoguntoyinbo
 

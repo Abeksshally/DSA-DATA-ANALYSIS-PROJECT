@@ -365,7 +365,7 @@ ORDER BY
 
 - Business Storytelling
 
-  ###  FINAL THOUGHTS
+### FINAL THOUGHTS
   
 This capstone project reflects not just technical skill, but real-world problem-solving and business thinking. 
 I’m proud of how far I’ve come in this journey and excited about what lies ahead in the data analytics field.

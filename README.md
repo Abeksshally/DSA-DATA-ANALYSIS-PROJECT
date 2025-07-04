@@ -3,7 +3,7 @@ This project forms part of my Data Analytics Bootcamp capstone and focuses on un
 
 ## 📚 Table of Contents
 
-- [Project Title](#dsa-data-analysis-project)
+- [Project Title](#dsa-data-analysis-project-kms)
 - [Step-by-Step Documentation](#step-by-step-documentation-employed-during-the-project)
   - [Project Overview](#project-overview)
     - [Objectives](#objectives)

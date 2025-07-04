@@ -347,7 +347,7 @@ ORDER BY
 - Product Strategy: Use purchase and return trends to optimize product mix and descriptions.
 
 
-### 📚 SKILLS DEMONSTRATED
+### SKILLS DEMONSTRATED
 
 - Exploratory Data Analysis
   
@@ -362,6 +362,18 @@ ORDER BY
 - Dashboard Creation
 
 - Business Storytelling
+
+  ###  FINAL THOUGHTS
+  
+This capstone project reflects not just technical skill, but real-world problem-solving and business thinking. 
+I’m proud of how far I’ve come in this journey and excited about what lies ahead in the data analytics field.
+
+ Let’s connect! I’m open to feedback, collaboration, or opportunities in data analysis.
+
+###### GMAIL: abkcoaching@gmail.com
+###### PHONE: +2349064562159
+###### LinkedIn: https://www.linkedin.com/in/maryoguntoyinbo
+
 
 
 
